@@ -35,3 +35,14 @@ body {
     top: 10vw;
     height: 70vh
 }
+.caption {
+    position: relative;
+    text-align: center;
+    width: 200px;
+}
+
+.caption p {
+    position: absolute;
+    bottom: -25px;
+    width: 100%;
+}
